@@ -4,10 +4,6 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=C084FC&center=true&vCenter=true&width=650&height=45&lines=Building+Intelligent+AI+Systems+🤖;AWS+Certified+Solutions+Architect+☁️;Full+Stack+%26+3D+Web+Developer+🌐;Real-time+Data+%26+Cloud+Native+Apps+🚀;Always+Learning%2C+Always+Shipping+⚡" alt="Typing SVG" />
-</a>
-
 <br/><br/>
 
 <a href="https://hardikdhawan.vercel.app/" target="_blank">
