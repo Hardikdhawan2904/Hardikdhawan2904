@@ -143,36 +143,6 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Hardikdhawan2904/HoloGrid-Sphere">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardikdhawan2904&repo=HoloGrid-Sphere&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=6e40c9&text_color=ffffff" width="48%"/>
-</a>
-&nbsp;
-<a href="https://github.com/Hardikdhawan2904/myresume">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardikdhawan2904&repo=myresume&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=6e40c9&text_color=ffffff" width="48%"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Hardikdhawan2904/DASHBOARDRD-FOR-PURCHSE-ORDER">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardikdhawan2904&repo=DASHBOARDRD-FOR-PURCHSE-ORDER&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=6e40c9&text_color=ffffff" width="48%"/>
-</a>
-&nbsp;
-<a href="https://github.com/Hardikdhawan2904/ANIMAL-SPECIES-DETECTOR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardikdhawan2904&repo=ANIMAL-SPECIES-DETECTOR&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=6e40c9&text_color=ffffff" width="48%"/>
-</a>
-
-<br/><br/>
-
-<a href="https://hardikdhawan.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_View_My_Full_Portfolio-hardikdhawan.vercel.app-6e40c9?style=for-the-badge"/>
-</a>
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌐 Skill Proficiency
