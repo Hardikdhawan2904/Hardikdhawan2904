@@ -155,8 +155,8 @@ me.say_hi()
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardikdhawan2904&repo=HoloGrid-Sphere&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=6e40c9&text_color=ffffff" width="48%"/>
 </a>
 &nbsp;
-<a href="https://github.com/Hardikdhawan2904/logsentinel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardikdhawan2904&repo=logsentinel&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=6e40c9&text_color=ffffff" width="48%"/>
+<a href="https://github.com/Hardikdhawan2904/myresume">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardikdhawan2904&repo=myresume&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=6e40c9&text_color=ffffff" width="48%"/>
 </a>
 
 <br/><br/>
