@@ -152,8 +152,6 @@ me.say_hi()
 
 ## 🐍 Contribution Snake
 
-> ⚙️ **Setup required:** Add the workflow below to your profile repo to activate the snake animation.
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hardikdhawan2904/Hardikdhawan2904/output/github-contribution-grid-snake-dark.svg" />
@@ -161,43 +159,6 @@ me.say_hi()
   <img alt="github-snake" src="https://raw.githubusercontent.com/Hardikdhawan2904/Hardikdhawan2904/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 </div>
-
-<details>
-<summary>⚙️ Click to see the GitHub Actions workflow to enable the snake</summary>
-
-Create this file in your profile repo at `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-After adding this file, go to **Actions → Generate Snake Animation → Run workflow** to generate it immediately.
-
-</details>
 
 ---
 
