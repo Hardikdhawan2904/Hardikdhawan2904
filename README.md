@@ -97,12 +97,6 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Hardikdhawan2904&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="96%"/>
-</div>
-
 ---
 
 ## 🚀 Featured Projects
