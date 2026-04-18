@@ -246,10 +246,4 @@ me.say_hi()
 
 <br/>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
-</div>
-
-<br/>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:3d1066,100:0d0221&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=c084fc&animation=fadeIn&fontAlignY=65"/>
