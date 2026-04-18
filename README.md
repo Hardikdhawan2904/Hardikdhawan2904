@@ -28,7 +28,7 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/Hardikdhawan2904?style=for-the-badge&color=6e40c9&labelColor=0d1117&label=FOLLOWERS" />
 &nbsp;
-<img src="https://img.shields.io/github/stars/Hardikdhawan2904?style=for-the-badge&color=6e40c9&labelColor=0d1117&label=TOTAL+STARS" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Frepositories%3Fq%3Duser%3AHardikdhawan2904&query=%24.total_count&style=for-the-badge&color=6e40c9&labelColor=0d1117&label=PUBLIC+REPOS&logo=github&logoColor=white" />
 
 </div>
 
